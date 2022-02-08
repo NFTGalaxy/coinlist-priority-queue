@@ -1,16 +1,21 @@
 # Galaxy NFT Snapshot
 Take of the following nft holders(an nft holding count for different nfts) on Feb 8th, 8am UTC
 
-## Include NFTs:
-1. [Shadowy Super Coder](https://galaxy.eco/galaxy/campaign/GCxMoUUmZu)
-2. [Shadowy Coder](https://galaxy.eco/galaxy/campaign/GCxMoUUmZu)
-3. [Galaxy Girl](https://galaxy.eco/galaxy/campaign/GCts8UUAPJ)
-4. [End of year AMA](https://galaxy.eco/galaxy/campaign/GCxAZUU71M)
-5. [AMA #2](https://galaxy.eco/galaxy/campaign/GC4gZUULZD)
-6. [Meta Cowboy — all 5 lvs](https://galaxy.eco/galaxy/campaign/GCMDXUUhhb)
-7. [Galaxy Brain](https://galaxy.eco/galaxy/campaign/GCsjXUUSJW)
-8. [Coinlist friend](https://galaxy.eco/coinlist/campaign/GCAQYUUoVG)
-9. [Coinlist Guru](https://galaxy.eco/coinlist/campaign/GC2KYUUpqT)
+
+## NFTs:
+
+| NFT Name        | Campaign   |  Chain  |  Contract  |  Contract Type|
+| --------   | -----  | ----  | ----  | ----  |
+| Shadowy Super Coder     | [Shadowy Super Coder Pack](https://galaxy.eco/galaxy/campaign/GCxMoUUmZu) |   Ethereum     |  0x15De1bEb13D7d38Cbc493D3ecbC0c7650E715C22  |  ERC1155  |
+| Shadowy Coder     | [Shadowy Super Coder Pack](https://galaxy.eco/galaxy/campaign/GCxMoUUmZu) |   Ethereum     |  0x15De1bEb13D7d38Cbc493D3ecbC0c7650E715C22  |  ERC1155  |
+| Galaxy Girl     | [Galaxy Girl - 2021 End-of-year Rave](https://galaxy.eco/galaxy/campaign/GCts8UUAPJ) |   Polygon     |  0x73Bc0bA23cA13Cb9A7FBeda5F661562EF985155E  |  ERC721  |
+| End of year AMA     | [Project Galaxy End of the Year AMA](https://galaxy.eco/galaxy/campaign/GCxAZUU71M) |   Polygon     |  0xBf232A580C3306F7A7cA90D09ec241F6818D06FA  |  ERC721  |
+| AMA #2     | [Galaxy AMA #2 We want to hear from you.](https://galaxy.eco/galaxy/campaign/GC4gZUULZD) |   Polygon     |  0xBf232A580C3306F7A7cA90D09ec241F6818D06FA  |  ERC721  |
+| Meta Cowboy — all 5 lvs     | [Meta Cowboy](https://galaxy.eco/galaxy/campaign/GCMDXUUhhb) |   Polygon     |  0x73Bc0bA23cA13Cb9A7FBeda5F661562EF985155E  |  ERC721  |
+| Galaxy Brain     | [Galaxy Brain](https://galaxy.eco/galaxy/campaign/GCsjXUUSJW) |   Polygon     |  0xBf232A580C3306F7A7cA90D09ec241F6818D06FA  |  ERC721  |
+| Coinlist friend     | [CoinList - CoinList Friends](https://galaxy.eco/coinlist/campaign/GCAQYUUoVG) |   Ethereum     |  0x36f1Bfa4eEC9A89Ea897E9e8b44462471106C10D  |  ERC721  |
+| Coinlist Guru     | [CoinList - Karma Gurus](https://galaxy.eco/coinlist/campaign/GC2KYUUpqT) |   Ethereum     |  0x12F837F1a2C96909C0b85FafB3aF7eEbF9ecff0D  |  ERC721  |
+
 
 ## Snapshot Blocks:
 
@@ -18,8 +23,8 @@ Ethereum block: [14164252](https://etherscan.io/block/14164252)
 
 Polygon block: [24688137](https://polygonscan.com/block/24688137)
 
+
 ## Queries:
-Dune Analytics:
 
 Ethereum ERC1155: [https://dune.xyz/queries/405485](https://dune.xyz/queries/405485)
 
@@ -27,7 +32,9 @@ Ethereum ERC721: [https://dune.xyz/queries/405475](https://dune.xyz/queries/4054
 
 Polygon ERC721: [https://dune.xyz/queries/405491](https://dune.xyz/queries/405491)
 
+
 ## Result:
+
 0. [Unique Addresses](snapshot/unique-addresses.csv)
 1. [Shadowy Super Coder](snapshot/shadowy-super-coder.csv)
 2. [Shadowy Coder](snapshot/shadowy-coder.csv)
