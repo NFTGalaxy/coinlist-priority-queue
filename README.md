@@ -1,5 +1,5 @@
-# Galaxy NFT Snapshot
-Take of the following nft holders(an nft holding count for different nfts) on Feb 8th, 8am UTC
+# CoinList Priority Queue (For Galaxy NFT Holders)
+The following snapshot of NFT holders was taken on Feb 8th, 8am UTC
 
 
 ## NFTs:
